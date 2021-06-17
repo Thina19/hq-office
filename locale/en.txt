@@ -1,0 +1,55 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = HQ OFFICE BKK
+
+## Skin
+
+### Button
+Button_B5551DB1_A8AE_1192_41E0_9815EC3E8FD9.label = CONTACT US
+Button_BAFF9AB7_AC6D_3778_41DD_EF9D1C21D15E.label = FLOOR PLAN
+
+### Multiline Text
+HTMLText_B3A95BF7_AD90_5B11_41E1_AC9050095132.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.21vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.21vw;"><B><I>HQ OFFICE BKK</I></B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_BD225E9E_B273_D96C_41A9_C0F962709F6A.toolTip = Fullscreen
+
+## Media
+
+### Title
+map_3A0FFC03_18AA_BB8B_4177_8F7A17D76370.label = FLOOR PLAN_1F
+map_3A1025B2_18AA_9485_41B1_153C45FEE072.label = FLOOR PLAN_1M
+map_3A1086A4_18AA_748D_41B3_AF1E98E6418C.label = FLOOR PLAN_2F
+map_3A6FB0BC_18D5_8CFD_41A0_B25A4772DE76.label = FLOOR PLAN_3F
+map_3D3901BA_18AA_8C85_41B8_F4BD56247D9D.label = FLOOR PLAN_0M
+panorama_198BC808_17BE_9A35_41A4_15BF84C42489.label = 1F_View_E
+panorama_19D82216_17AF_8E45_41B5_D38B14254A47.label = 1M_View_D
+panorama_1A088497_17D5_8A4C_41AF_B32D3805BE15.label = 3F_View_C
+panorama_1A0E55D4_17AA_95C1_419F_85520530A325.label = 2F_View_D
+panorama_1A133044_17AA_8AC2_4183_A1886F1BEC06.label = 3F_View_A
+panorama_1A1380C3_17AD_8BC0_41A1_658DEC1A66FE.label = 2F_View_C
+panorama_1A2BD2A1_17D6_8E44_417A_0D7729B725FC.label = 3F_View_B
+panorama_1A464EB6_17AD_B643_41A9_4F89AC29BB89.label = 2F_View_B
+panorama_1A8D7E48_17BB_9635_41AC_A63B1521D832.label = 1F_View_B
+panorama_1AA196E4_17BA_F7FD_41A7_3486D03E5D92.label = 0M_View_B
+panorama_1AAF4C50_17B5_BAD6_41A2_6F41554ED653.label = 0M_View_D
+panorama_1AC1D318_17AE_8E4F_419C_D76C38AF8DD7.label = 2F_View_A
+panorama_1AC1F351_17B6_8ED7_41B0_9FEBEC3F6502.label = 0M_View_C
+panorama_1AC4B4E6_17BA_8BFD_41B6_B974923B04B9.label = 1F_View_A
+panorama_1AC7A263_17BF_8EFB_41B2_03A517E1F6B8.label = 1M_View_B
+panorama_1AE407E3_17BF_95FB_41A2_CA08DBF196C9.label = 1M_View_A
+panorama_1AE40EBA_17BA_B655_419C_D06FAEE435B5.label = 1F_View_D
+panorama_1AEB3AEC_17BE_9FCD_41B0_57C65F946532.label = 1M_View_C
+panorama_1AFFBBFE_17BB_9DCA_418A_A14C349384B6.label = 1F_View_C
+panorama_D5433F02_DADE_992F_41BA_E92325E3662D.label = 0M_View_A
+
+## Action
+
+### URL
+LinkBehaviour_FD00D868_DBD2_987D_41E6_DE401CFA1581.source = https://www.linkedin.com/company/cmedcc/
+LinkBehaviour_FD033868_DBD2_987D_41E8_432D9C277B75.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
